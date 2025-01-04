@@ -1,5 +1,4 @@
 [![nag-ryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nag-ryo&theme=vue-dark&show_icons=true)](https://github.com/nag-ryo/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nag-ryo&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/nag-ryo/github-readme-stats)
 
 <!--
